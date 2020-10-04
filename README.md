@@ -12,6 +12,4 @@ Both of these edits were great practice for me to ensure that I am providing cle
 
 ## Finished webpage:
 
-## Webpage image:
-
-![](./Desktop/challenge-1-screenshot.png)
+![Webpage](./challenge-1-screenshot.png)
