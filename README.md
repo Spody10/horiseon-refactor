@@ -10,6 +10,8 @@ With the CSS file, there were several classes that repeated the same code, so I 
 
 Both of these edits were great practice for me to ensure that I am providing clean and consise code in the future. My refactoring is by no means perfect, but with time, patience and practice, I believe my skills will improve.
 
-## Finished webpage:
+## Links:
 
-![Webpage](./challenge-1-screenshot.png)
+[Webpage](https://spody10.github.io/horiseon-refactor/)
+
+![Screenshot](./challenge-1-screenshot.png)
